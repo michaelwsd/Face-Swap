@@ -62,8 +62,8 @@ def merge_face(image_url1, image_url2, image_url, number): # how close is the fi
 
 
 
-image1 = r"D:\Code\CS50\Project\image.jpg"
-image2 = r"D:\Code\CS50\Project\image2.jpg"
-image = r"D:\Code\CS50\Project\zface.jpg"
+image1 = r"D:\Code\CS50\Project\face1.jpg"
+image2 = r"D:\Code\CS50\Project\face2.jpg"
+image = r"D:\Code\CS50\Project\mergedFace.jpg"
 
 merge_face(image1, image2, image, 100)
